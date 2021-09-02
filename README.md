@@ -9,16 +9,26 @@ BTW, Feel free to contact me in case of making some apps or websites, because I 
 
 Toys I love the most to play with:
 1 - JAVA
+
 2 - PYTHON
+
 3 - PHP
+
 4 - HTML
+
 5 - CSS
+
 6 - JS
+
 7 - VUE JS
+
 8 - REACT JS
+
 9 - NODE JS
+
 10 - BIRD SCRIPT
 
 ## Find me around the 🌎:
 Twitter   : https://twitter.com/krishnavyshakr
+
 Github    : https://www.github.com/krishnavyshak :: I allready know that you are here BTW
