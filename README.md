@@ -8,6 +8,7 @@ More about me on my portfolio. https://krishnavyshak.github.io
 BTW, Feel free to contact me in case of making some apps or websites, because I am a freelancer 👱‍♂️
 
 Toys I love the most to play with:
+
 1 - JAVA
 
 2 - PYTHON
