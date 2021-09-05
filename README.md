@@ -32,4 +32,4 @@ Toys I love the most to play with:
 ## Find me around the 🌎:
 Twitter   : https://twitter.com/krishnavyshakr
 
-Github    : https://www.github.com/krishnavyshak :: I allready know that you are here BTW
+Github    : https://www.github.com/krishnavyshak :: I already know that you are here BTW
