@@ -21,11 +21,12 @@ More about me on my portfolio. https://krishnavyshak.github.io
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://www.kotlinlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a>
+    <a href="https://birdscript.tk/" target="_blank"> <img src="bslogo.png" width="48" height="48"</a>
     <a href="https://www.php.net" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
     <a href="https://www.angularjs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> </a>
      <a href="https://flutter.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"</a>
-     <a href="https://flutter.google.com/" target="_blank"> <img src="bslogo.png" width="48" height="48"</a>
+
     
 </p>
 
