@@ -58,7 +58,7 @@ More about me on my portfolio. https://krishnavyshak.github.io
 
 ## Connect with me:
 <p align="left">
-<a href = "https://twitter.com/krishnavyshak"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/krishnavyshakr"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.youtube.com/channel/UC-nET_YBpjqK-TPG3xlJbSQ/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
