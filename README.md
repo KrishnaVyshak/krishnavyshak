@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-Hey I am a 14yo Self taught Coder, Infront of IDE's since 2017... I'm somewhat like a Pythoneer, Designer of my hobby programming language Bird Script, People tell it as a 21st Century BASIC! 
+Hey I am a 15yo Self taught Coder, Infront of IDE's since 2017... I'm somewhat like a Pythoneer, Designer of my hobby programming language Bird Script, People tell it as a 21st Century BASIC! 
 
 Loves open-source, 
 More about me on my portfolio. https://krishnavyshak.github.io
