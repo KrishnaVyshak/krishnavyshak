@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-Hey I am a 15yo Self taught Coder, Infront of IDE's since 2017... I'm somewhat like a Pythoneer, Designer of my hobby programming language Bird Script, People tell it as a 21st Century BASIC! 
+Hi, I'm a self-taught 15-year-old coder who has been working with IDEs since 2017. I enjoy programming in Python and have even designed my own hobby programming language called Bird Script, which some people describe as a 21st-century BASIC!
 
 Loves open-source, 
 More about me on my portfolio: <a href="https://vyshak.me">vyshak.me</a>
