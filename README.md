@@ -9,7 +9,7 @@
 Hi, I'm a 19-year-old coder who has been working with IDEs since 2017. I enjoy programming in Python and have even designed my own hobby programming language called Bird Script, which some people describe as a 21st-century BASIC!
 
 Loves open-source, 
-More about me on my portfolio: <a href="https://vyshak.me">vyshak.me</a>
+More about me on my portfolio: <a href="https://vyshak.me">krishnavyshak.com</a>
 
 ## 🚀 Languages and Tools:
 
