@@ -4,65 +4,61 @@
 </picture>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Krishnavyshak R.</h1>
-<h3 align="center">I'm a passionate student & developer from India.</h3>
 
-
-## 🙋‍♂️ About Me
-
-Hi, I'm a 19-year-old coder who has been working with IDEs since 2017. I enjoy programming in Python and have even designed my own hobby programming language called Bird Script, which some people describe as a 21st-century BASIC!
-
-Loves open-source, 
-More about me on my portfolio: <a href="https://vyshak.me">krishnavyshak.com</a>
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://www.kotlinlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a>
-    <a href="https://birdscript.tk/" target="_blank"> <img src="bslogo.png" width="48" height="48"</a>
-    <a href="https://www.php.net" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
-    <a href="https://www.angularjs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> </a>
-     <a href="https://flutter.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"</a>
-
-    
+<p align="center">
+  Full-stack developer • UI/UX designer • Electronics enthusiast
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Krishnavyshak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=krishnavyshak&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/krishnavyshak/github-readme-stats"><img alt="Krishanvyshak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnavyshak&langs_count=100&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-<a href = "https://twitter.com/krishnavyshakr"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-nET_YBpjqK-TPG3xlJbSQ/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
+<p align="center">
+  <a href="https://www.krishnavyshak.com">
+    <img src="https://img.shields.io/badge/Portfolio-krishnavyshak.com-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/krishnavyshak">
+    <img src="https://img.shields.io/badge/LinkedIn-Krishnavyshak-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:hello@krishnavyshak.com">
+    <img src="https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=krishnavyshak">
-</a>
-<a href="https://github.com/krishnavyshak?tab=followers"><img src="https://img.shields.io/github/followers/krishnavyshak?label=Followers&style=social" alt="GitHub Badge"></a>
+---
 
+## About
+
+I'm a Computer Science undergraduate and a full-stack developer from India. I've been programming since 2017, starting with Python and gradually getting into web development, mobile apps, backend systems, UI/UX design, and electronics.
+
+These days I mostly work with TypeScript, Python, Next.js, React Native, Node.js, Supabase, etc... I've also been getting more interested in how things work beyond the application layer, so I'm spending more time learning Linux, systems, embedded development, and electronics.
+
+I enjoy building products from scratch and usually end up involved in more than just the code. I like figuring out how something should work, designing the interface, building the backend, setting up the database, and taking it all the way to something usable. A lot of my projects started simply because I wanted to see whether I could build them.
+
+I've built and worked on everything from mobile and web applications to my own programming language, Bird Script. Some of the apps I've built have reached 1K+ downloads and active users, and I've also developed software systems for private companies to streamline their day-to-day operations and make their businesses more efficient. I'm still experimenting with new areas, learning continuously, and trying to get better at both the technical and creative sides of building software.
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,go,c,cpp,cs,java,kotlin,php,godot&perline=11" alt="Languages">
+</p>
+
+### Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,angular,qt,jetpackcompose&perline=10" alt="Frameworks and Libraries">
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,appwrite,postgres,mysql,mongodb&perline=8" alt="Backend and Databases">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQL">
+  
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,docker&perline=8" alt="Tools and Platforms">
+</p>
