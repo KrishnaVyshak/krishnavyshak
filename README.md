@@ -1,4 +1,7 @@
-<a href="#"><img width="100%" height="auto" src="profile-banner.png" height="175px"/></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="[https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png](https://github.com/KrishnaVyshak/krishnavyshak/blob/main/cover_black.png?raw=true)">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="[https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://github.com/KrishnaVyshak/krishnavyshak/blob/main/cover_white.png?raw=true)">
+</picture>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Krishnavyshak R.</h1>
 <h3 align="center">I'm a passionate student & developer from India.</h3>
