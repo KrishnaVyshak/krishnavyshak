@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png]([https://github.com/KrishnaVyshak/krishnavyshak/blob/main/cover_black.png?raw=true](https://raw.githubusercontent.com/KrishnaVyshak/krishnavyshak/d50afd5fc3e2fe85c5f844564191203e9774e511/cover_black.png))">
-  <img alt="Cover." src="[https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png]([https://github.com/KrishnaVyshak/krishnavyshak/blob/main/cover_white.png?raw=true](https://raw.githubusercontent.com/KrishnaVyshak/krishnavyshak/d50afd5fc3e2fe85c5f844564191203e9774e511/cover_white.png))">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KrishnaVyshak/krishnavyshak/d50afd5fc3e2fe85c5f844564191203e9774e511/cover_black.png">
+  <img alt="Cover" src="https://raw.githubusercontent.com/KrishnaVyshak/krishnavyshak/d50afd5fc3e2fe85c5f844564191203e9774e511/cover_white.png">
 </picture>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Krishnavyshak R.</h1>
